@@ -175,7 +175,7 @@
                     console.log('没有找到footer.md! 建议在p/目录下建立footer.md 文件来添加底部信息！');
                     return;
                 }
-                load('#main-page', '404.md', false, '/' + app_name + '/');
+                load('#main-page', '/404.md', false, '/' + app_name + '/');
             }
         });
     }
