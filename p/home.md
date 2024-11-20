@@ -1,3 +1,3 @@
 # Home
 
-![img](../img/logo.jpg)
+![img](../img/logo.png)
